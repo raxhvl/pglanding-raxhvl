@@ -1,23 +1,30 @@
 [
-  {
-    "title": "PokéBAL",
-    "description": "A collection of helpful resources for Block Access Lists (BAL) implementors.",
-    "label": "EL",
-    "url": "https://pokebal.raxhvl.com",
-    "date": "2025-07-01"
-  },
-  {
-    "title": "Diet BAL",
-    "description": "A little Block Access Lists (BAL) experiment.",
-    "label": "EL",
-    "url": "https://raxhvl.com/ethereum/diet-bal/",
-    "date": "2025-07-09"
-  },
-  {
-    "title": "🧪 Testing Block Level Access Lists",
-    "description": "Complex test cases for BAL and existing EIP interactions.",
-    "label": "EL",
-    "url": "https://github.com/ethereum/execution-spec-tests/releases/tag/bal%40v1.0.0",
-    "date": "2025-09-30"
-  }
+	{
+		"title": "PokéBAL",
+		"description": "A collection of helpful resources for Block Access Lists (BAL) implementors.",
+		"label": "EL",
+		"url": "https://pokebal.raxhvl.com",
+		"date": "2025-07-01"
+	},
+	{
+		"title": "Diet BAL",
+		"description": "A little Block Access Lists (BAL) experiment.",
+		"label": "EL",
+		"url": "https://raxhvl.com/ethereum/diet-bal/",
+		"date": "2025-07-09"
+	},
+	{
+		"title": "🧪 Testing Block Level Access Lists",
+		"description": "Complex test cases for BAL and existing EIP interactions.",
+		"label": "EL",
+		"url": "https://github.com/ethereum/execution-spec-tests/releases/tag/bal%40v1.0.0",
+		"date": "2025-09-30"
+	},
+	{
+		"title": "Pitsop",
+		"description": "Cross client config manager.",
+		"label": "EL",
+		"url": "https://github.com/raxhvl/pitstop",
+		"date": "2025-10-21"
+	}
 ]
