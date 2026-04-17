@@ -26,5 +26,12 @@
 		"label": "EL",
 		"url": "https://github.com/raxhvl/pitstop",
 		"date": "2025-10-21"
+	},
+	{
+		"title": "Butterfly",
+		"description": "Adoption tracker for upcoming Ethereum fork.",
+		"label": "EL",
+		"url": "https://github.com/ethereum/butterfly",
+		"date": "2025-11-07"
 	}
 ]

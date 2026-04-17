@@ -34,6 +34,7 @@ This repository showcases technical contributions to the Ethereum protocol, clie
 ### 🔍 Analysis & Tooling
 
 - **[Debug Format](https://github.com/ethdebug/format/pulls?q=is%3Apr+author%3Araxhvl)** - Contributions Smart contract debugging data format standards development
+- **[Butterfly](https://github.com/ethereum/butterfly)** - Adoption tracker for upcoming Ethereum fork
 
 ---
 
